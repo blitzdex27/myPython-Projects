@@ -1,7 +1,7 @@
 # myPython-Projects
 Projects I did using Python
 
-Hello!
+Hello! I'm Dexter.
 
 These repository contains my projects in Python so far. 
 
