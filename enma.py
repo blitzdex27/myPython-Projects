@@ -2,7 +2,10 @@ import json
 import random
 import datetime as dt
 import os
-""" This is a file encryption project I designed myself.
+""" 
+Date created: February 19, 2021
+
+This is a file encryption project I designed myself.
 This is a very simple encryption.
 Use encrypt(filename, favorite_num) method to encrypt.
 Use decrypt(encrypted_file) method to decrypt.
