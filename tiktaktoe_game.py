@@ -1,4 +1,6 @@
 # Tik-Tak-Toe
+# Date Created: February 24, 2021
+# Completion time: Around 8 hours
 
 # import clear function
 from IPython.display import clear_output
