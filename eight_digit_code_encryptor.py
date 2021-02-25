@@ -1,4 +1,4 @@
-# for 8 digit encryption only
+# 8-digit code simple encryptor
 # Date created: Feb 26, 2021, 2 hours
 # use encrypt_codes(code_list) method to encrypt a list of 8 digit codes
 # use decrypt_code(encrypted_code) method to decrypt the code
