@@ -1,4 +1,5 @@
-# Tik-Tak-Toe
+# Tik-Tac-Toe game project from Python Bootcamp at Udemy
+
 # Date Created: February 24, 2021
 # Completion time: Around 8 hours
 
