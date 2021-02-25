@@ -14,9 +14,13 @@ I made this public so I can learn from recommendations of other people while I a
 Thank you!
 
 
+
 Project history:
 
 Date        Filename                            Project description
+
 2021-02-19  "enma.py"                           file encryption project
+
 2021-02-24  "tiktactoe_game.py"                 Tik-Tac-Toe game project from Python Bootcamp at Udemy
+
 2021-02-25  "eight_digit_code_encryptor.py"     8-digit code simple encryptor
